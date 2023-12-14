@@ -8,7 +8,7 @@
 </a>
 
 
-Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M.U.<code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
+Hello! I'm Hee-Yoon Kim, Junior developer from South Korea and a student in D.M.U.<code><img src="https://user-images.githubusercontent.com/70050528/189471018-8842fb25-8d8f-4d4a-8d63-40d57adf352c.png" width="90"/></code>
 
 <br />
 
@@ -25,11 +25,11 @@ Hello! I'm Hyun-jong Kim, Junior developer from South Korea and a student in D.M
 
 <br />
 
-## Career 💼
+## Career 💼''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''''
 * 🛏️ [D.M.U Department Of Interior Design](https://www.dongyang.ac.kr/sites/dmu_23256/index.do) (2019)
-* <img height="15" src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/510px-Flag_of_South_Korea.svg.png><img height="15" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_Republic_of_Korea_Air_Force.svg/300px-Flag_of_the_Republic_of_Korea_Air_Force.svg.png> [Republic of Korea Air Force](https://rokaf.airforce.mil.kr/airforce/index.do) 18th Fighter Wing Military Police (2019 ~ 2021)
+* <img height="15" src=https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/510px-Flag_of_South_Korea.svg.png><img height="15" src=https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_the_Republic_of_Korea_Air_Force.svg/300px-Flag_of_the_Republic_of_Korea_Air_Force.svg.png> [Republic of Korea ](https://www.army.mil.kr/sites/army/index.do)) 18th Fighter Wing Military Police (2019 ~ 2021)
 * <img height="15" src=https://kaareklint.co.kr/web/baton/images/favicon.png> [Kaare Klint Furniture](https://kaareklint.co.kr/) (2021 ~ 2022)
-* 💻 [D.M.U Department Of Artificial intelligence](https://www.dongyang.ac.kr/sites/dmu_23259/index.do) (2022 ~ )
+* 💻 [D.M.U Department Of Artificial intelligence](https://www.dongyang.ac.kr/sites/dmu_23259/index.do) (2023 ~ )
 
 <br />
 
